@@ -13,7 +13,7 @@ It can be used as a boot manager for multi-booting mainline Linux, Android and o
 
 ## User guide and documentations
 
-Please visit [Renegade Project Wiki](https://wiki.renegade-project.cn/)
+Please visit [Renegade Project Wiki](https://renegade-project.tech/)
 
 ## Acknowledgements
 - Gustave Monce and his [SurfaceDuoPkg](https://github.com/WOA-Project/SurfaceDuoPkg)
